@@ -8,7 +8,7 @@ public class demo {
 		System.out.println("Hello");
 		
 		System.out.println("demo");
-		System.out.println("test");
+	
 		System.out.println("user");
 		
 		
